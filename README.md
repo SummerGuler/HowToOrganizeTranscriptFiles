@@ -1,2 +1,2 @@
 # HowToOrganizeTranscriptFiles
-How to organize transcript files
+How to organize Udacity transcript files
