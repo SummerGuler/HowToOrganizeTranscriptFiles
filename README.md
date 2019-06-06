@@ -1,2 +1,2 @@
-# HowToOrganizeTranscriptFiles
-How to organize Udacity transcript files
+# How To Organize Udacity Transcript Files
+Please read 'HowToOrganizeTranscriptFiles.pdf' first
